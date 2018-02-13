@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyAppFingerprint</string>
+    <string name="app_fingerprint">Put your finger in censor to authenticate your account</string>
+</resources>
