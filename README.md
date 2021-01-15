@@ -1,4 +1,3 @@
-# fingerprint-auth-android-demo
+#### Android fingerprint Feature ####
 
-###
-A tiny fingerprint authentication sample on android platform
+
